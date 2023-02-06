@@ -93,6 +93,8 @@
 .post-content figure,
 .post-content ul {
     margin-bottom: var(--content-gap);
+    font-size: var(--font-size);
+    width: 85%;
 }
 
 .post-content ol,
